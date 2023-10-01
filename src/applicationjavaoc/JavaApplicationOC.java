@@ -18,8 +18,8 @@
             System.out.println(v2.decrisToi()+"\n\n");
             System.out.println(v1.comparer(v2));
 
-            /**
-             * Si vous ne lui mettez aucun paramètre, super() renverra le constructeur par défaut de la classe Ville.
+            /*
+              Si vous ne lui mettez aucun paramètre, super() renverra le constructeur par défaut de la classe Ville.
              */
             System.out.println("------------------------------------------");
             System.out.println("Sans paramètre super renvoie le constructeur");
